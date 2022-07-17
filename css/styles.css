@@ -46,7 +46,7 @@ body {
 
 .header-contact-item {
   font-family: 'Roboto';
-  color: black;
+  color: #757575;
   text-decoration: none;
   font-style: normal;
   font-weight: 500;
@@ -93,6 +93,7 @@ body {
   letter-spacing: 0.06em;
   color: #ffffff;
   border: 0;
+  cursor: pointer;
 }
 
 .hero-button:hover,
@@ -231,7 +232,7 @@ body {
 .footer-adress:focus,
 .footer-mail:focus,
 .footer-phone:focus {
-  color: rgba(255, 255, 255, 0.4);
+  color: #2196f3;
 }
 
 /* portfolio */
@@ -256,6 +257,7 @@ body {
   letter-spacing: 0.03em;
   color: #212121;
   border: 0;
+  cursor: pointer;
 }
 
 .work-examples-filter-button:hover,
