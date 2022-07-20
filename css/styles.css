@@ -274,6 +274,7 @@ body {
 }
 
 .work-example-item {
+  text-decoration: none;
   box-sizing: border-box;
   width: 370px;
   height: 404px;
@@ -287,7 +288,7 @@ body {
 }
 
 .work-example-header {
-  font-style: normal;
+  text-decoration: none;
   font-weight: 700;
   font-size: 18px;
   line-height: 36px;
@@ -302,4 +303,5 @@ body {
   line-height: 30px;
   letter-spacing: 0.03em;
   color: #757575;
+  text-decoration: none;
 }
